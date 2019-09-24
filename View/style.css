@@ -1,0 +1,18 @@
+.cadastro{
+    height: 250px;
+    width: 250px;
+    float: left;
+}
+.login{
+    height: 250px;
+    width: 250px;
+    float: right;
+}
+
+.cadastro label{
+    font-size: 26px;
+}
+
+.login label{
+    font-size: 26px;
+}
